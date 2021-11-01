@@ -8,6 +8,9 @@
 I had completed my bachelor's in INFORMATION TECHNOLOGY from Gujarat Technical University 🏛. I'm a passionate to learner new technologies and programming languages and work across domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love 💻. I will explore Machine Learning 🕸️ and Data Structures and Algorithms 🤓.
 
 <br />
+<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
+  
+
 
 - 🔭 I’m currently working on new android application  
 - 🌱 I’m currently learning flutter
