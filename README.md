@@ -2,6 +2,13 @@
 
 ## Hello World !! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I am Dhruvi...</h2>
 <br />
+
+### Glad to see you here! 🤩 &nbsp;
+
+I had completed my bachelor's in INFORMATION TECHNOLOGY from Gujarat Technical University 🏛. I'm a passionate to learner new technologies and programming languages and work across domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love 💻. I'm currently into Machine Learning 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+<br />
+
 I had completed my bachelor's in INFORMATION TECHNOLOGY from Gujarat Technical University.  
 
 
