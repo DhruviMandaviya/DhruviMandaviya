@@ -1,8 +1,6 @@
 ### Hello World👋! I am Dhruvi
 
-
-
-Here are some ideas to get you started:
+I had completed my bachelor's in INFORMATION TECHNOLOGY from Gujarat Technical University. 
 
 - 🔭 I’m currently working on new android application  
 - 🌱 I’m currently learning flutter
