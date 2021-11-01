@@ -1,9 +1,9 @@
 
 
-### Hello World !! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I am Dhruvi...
+## Hello World !! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I am Dhruvi...</h2>
 <br />
+I had completed my bachelor's in INFORMATION TECHNOLOGY from Gujarat Technical University.  
 
-I had completed my bachelor's in INFORMATION TECHNOLOGY from Gujarat Technical University. 
 
 - 🔭 I’m currently working on new android application  
 - 🌱 I’m currently learning flutter
