@@ -5,15 +5,24 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I had completed my bachelor's in INFORMATION TECHNOLOGY from Gujarat Technical University 🏛. I'm a passionate to learner new technologies and programming languages and work across domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love 💻. I will explore Machine Learning 🕸️ and Data Structures and Algorithms 🤓.
+
+Here's a more casual, human-written version with emojis and a dash of humor:
+
+Dhruvi Mandaviya – Data Engineer & Analyst 🚀👩‍💻
+
+Hey there! I’m Dhruvi, a data nerd with 3+ years of experience transforming messy data into clear, actionable insights 📊. I’ve built data pipelines that are more reliable than my morning coffee machine ☕, working across cloud platforms like AWS, Azure, and Snowflake. If it’s data-related, I’ve probably done it—ETL, data modeling, analysis—you name it! 💻
+
+I speak Python, SQL, and the universal language of Power BI and Tableau 🐍💡. I’ve worked on big data tech like Apache Spark and Hadoop—basically, I get way too excited about processing massive datasets. I’m currently diving into cool AI and machine learning projects, like improving job matching with NLP and helping GenZ crush their dating game with smart, real-life prompts 😄💡.
+
+When I’m not wrangling data, I’m probably overthinking my next Python script or trying to explain to non-tech friends what exactly I do 🤔. If you love data or just want to chat, hit me up!
 
 <br />
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="300px">
   
 
 
-- 🔭 I’m currently working on new android application  
-- 🌱 I’m currently learning flutter
+- 🔭 I’m currently working on Data Engineering
+- 🌱 I’m currently Azure cloud platform
 - 👯 I’m looking to collaborate on my open source
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: Dreaming in black and white
