@@ -26,10 +26,6 @@ When I’m not wrangling data, I’m probably overthinking my next Python script
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvimandaviya)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvimandaviya&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhruvimandaviya)  
-
 ![Profile views](https://gpvc.arturio.dev/dhruvimandaviya)  
 
 <h3 align="left">Languages and Tools:</h3>
