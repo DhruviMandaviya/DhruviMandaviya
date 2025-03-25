@@ -5,9 +5,6 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-
-Here's a more casual, human-written version with emojis and a dash of humor:
-
 Dhruvi Mandaviya – Data Engineer & Analyst 🚀👩‍💻
 
 Hey there! I’m Dhruvi, a data nerd with 3+ years of experience transforming messy data into clear, actionable insights 📊. I’ve built data pipelines that are more reliable than my morning coffee machine ☕, working across cloud platforms like AWS, Azure, and Snowflake. If it’s data-related, I’ve probably done it—ETL, data modeling, analysis—you name it! 💻
