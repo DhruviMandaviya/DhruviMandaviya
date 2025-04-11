@@ -9,7 +9,6 @@ I speak Python, SQL, and the universal language of Power BI and Tableau 🐍💡
 
 When I’m not wrangling data, I’m probably overthinking my next Python script or trying to explain to non-tech friends what exactly I do 🤔. If you love data or just want to chat, hit me up!
 
-<br />
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="300px">
   
 - 🔭 I’m currently working on Data Engineering
