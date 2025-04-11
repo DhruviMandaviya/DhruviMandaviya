@@ -3,7 +3,7 @@
 ## Hello World !! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I am Dhruvi Mandaviya </h2>
 
 <h4 align="center">
-  🚀 Mobile Developer | 🌟 Full-Stack Developer | 🤖 AI Enthusiast | 🧠 Lifelong Learner <br>
+   🌟 Full-Stack Developer | 🚀 Mobile Developer | 🤖 AI Enthusiast | 🧠 Lifelong Learner <br>
   🎯 Focused on building intelligent digital solutions that simplify and inspire everyday life
 </h4>
 
