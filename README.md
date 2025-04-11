@@ -1,11 +1,9 @@
 
 
-## Hello World !! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I am Dhruvi...</h2>
+## Hello World !! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I am Dhruvi Mandaviya </h2>
 <br />
 
 ### Glad to see you here! 🤩 &nbsp;
-
-Dhruvi Mandaviya – Data Engineer & Analyst 🚀👩‍💻
 
 Hey there! I’m Dhruvi, a data nerd with 3+ years of experience transforming messy data into clear, actionable insights 📊. I’ve built data pipelines that are more reliable than my morning coffee machine ☕, working across cloud platforms like AWS, Azure, and Snowflake. If it’s data-related, I’ve probably done it—ETL, data modeling, analysis—you name it! 💻
 
@@ -16,8 +14,6 @@ When I’m not wrangling data, I’m probably overthinking my next Python script
 <br />
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="300px">
   
-
-
 - 🔭 I’m currently working on Data Engineering
 - 🌱 I’m currently Azure cloud platform
 - 👯 I’m looking to collaborate on my open source
