@@ -1,10 +1,8 @@
 
 
 ## Hello World !! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I am Dhruvi Mandaviya </h2>
-<br />
 
-### Glad to see you here! 🤩 &nbsp;
-
+### Glad to see you here! 🤩
 Hey there! I’m Dhruvi, a data nerd with 3+ years of experience transforming messy data into clear, actionable insights 📊. I’ve built data pipelines that are more reliable than my morning coffee machine ☕, working across cloud platforms like AWS, Azure, and Snowflake. If it’s data-related, I’ve probably done it—ETL, data modeling, analysis—you name it! 💻
 
 I speak Python, SQL, and the universal language of Power BI and Tableau 🐍💡. I’ve worked on big data tech like Apache Spark and Hadoop—basically, I get way too excited about processing massive datasets. I’m currently diving into cool AI and machine learning projects, like improving job matching with NLP and helping GenZ crush their dating game with smart, real-life prompts 😄💡.
