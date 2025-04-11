@@ -11,6 +11,14 @@
 
 I'm a developer with over **4 years of experience** crafting mobile and web solutions using modern technologies. My journey began with Android and iOS development, evolved into cross-platform magic with **Flutter** and **React Native**, and now I'm diving deep into **AI-powered apps** and **full-stack development** using **Python, SQL, and RAG models**.
 
+- 👨‍💻 All of my projects are available at 
+
+- 💬 Ask me about **Python, CI/CD, React.Js, Vue.js, SQL, MongoDB, GraphQL**
+
+- 📫 How to reach me **mdhruvim@gmail.com**
+
+- 📄 Know about my experiences 
+
 ### 🏆 Achievements
   - 🏆 **Best Innovation Project** – AI Travel Planner
   - 🌟 **Star Performer Award**
