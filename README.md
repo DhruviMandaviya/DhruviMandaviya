@@ -17,7 +17,8 @@ I'm a developer with over **4 years of experience** crafting mobile and web solu
 
 - 📫 How to reach me **mdhruvim@gmail.com**
 
-- 📄 Know about my experiences [RESUME]
+
+- 📄 Know about my experiences [Dhruvi_Mandaviya_Resume.pdf](https://github.com/user-attachments/files/19784633/Dhruvi_Mandaviya_Resume.pdf)
 
 ### 🏆 Achievements
   - 🏆 **Best Innovation Project** – AI Travel Planner
